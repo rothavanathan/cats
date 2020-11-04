@@ -1,0 +1,23 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "practice in node.js of callbacks",
+  "main": "asyncBreeds.js",
+  "scripts": {
+    "test": "'mocha'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rothavanathan/cats.git"
+  },
+  "author": "Romesh Thavanathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rothavanathan/cats/issues"
+  },
+  "homepage": "https://github.com/rothavanathan/cats#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
